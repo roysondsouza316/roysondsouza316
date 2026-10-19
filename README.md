@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roysondsouza316
-- 👀 I’m interested in FEM, ABAQUS, FenicsX, Julia, FEM Automation, GUI development, UMAT & UEL development.
+- 👀 I work on topics such as FEM, ABAQUS, FenicsX, Julia, FEM Automation, GUI development, UMAT & UEL development.
 - 📫 How to reach me roysonnitk@gmail.com
 
 <!---
